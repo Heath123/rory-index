@@ -3,19 +3,19 @@ An image of Rory sitting on carpeted floor, underneath a table with blue walls i
 # Tags
 rory, floor, carpet, table, powerful, dominant, casual, relaxed
 # Position
-[ ] Curled up
-[x] Stretched out/lying
-[ ] Sitting
-[x] On floor
-[ ] On chair
-[ ] On sofa
-[ ] On her bed
-[ ] Outside
-[ ] In car
+- [ ] Curled up
+- [x] Stretched out/lying
+- [ ] Sitting
+- [x] On floor
+- [ ] On chair
+- [ ] On sofa
+- [ ] On her bed
+- [ ] Outside
+- [ ] In car
 # Extra metadata
-[ ] Asleep
-[ ] In sun
-[ ] Depth-of-field/blurred background
-[x] Looking at camera
-[ ] Likely edited
-[ ] Has toy
+- [ ] Asleep
+- [ ] In sun
+- [ ] Depth-of-field/blurred background
+- [x] Looking at camera
+- [ ] Likely edited
+- [ ] Has toy
