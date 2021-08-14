@@ -1,4 +1,4 @@
-![Rory](https://raw.githubusercontent.com/Heath123/rory-index/main/rory-stare/rory.jpg)
+![Rory](rory.jpg)
 Format: JPEG
 # Description
 An image of Rory staring directly into the camera.
