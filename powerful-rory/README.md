@@ -1,4 +1,4 @@
-![Rory](https://raw.githubusercontent.com/Heath123/rory-index/main/powerful-rory/rory.jpg)
+![Rory](rory.jpg)
 Format: JPEG
 # Description
 An image of Rory sitting on carpeted floor, underneath a table with blue walls in the background. She appears relaxed, and is looking towards the camera, which is close to the floor. Since Rory is looking down at the camera, she appears dominant and powerful in this image. 
