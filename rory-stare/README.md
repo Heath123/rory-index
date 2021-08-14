@@ -1,4 +1,4 @@
-![Rory](rory.jpg =756x1008)
+![Rory](rory.jpg | width=756)
 Format: JPEG
 # Description
 An image of Rory staring directly into the camera.
