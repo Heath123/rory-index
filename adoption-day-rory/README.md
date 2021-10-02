@@ -1,7 +1,7 @@
 ![Rory](rory.png)
 Format: PNG
 # Description
-A picture of Rory in a carrier the day she got adoptet by Chew
+A picture of Rory in a carrier the day she got adopted by Chew
 # Tags
 rory, adoption, toy, cage, carrier
 # Position
